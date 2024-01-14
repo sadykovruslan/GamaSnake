@@ -1,8 +1,9 @@
-import javax.swing.*;
+package GUI;
 
-/**
- * Created by infuntis on 15/01/17.
- */
+import javax.swing.*;
+import Modelgame.*;
+
+
 public class MainWindow extends JFrame {
 
     public MainWindow(){
