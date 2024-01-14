@@ -3,6 +3,7 @@ package GUI;
 import javax.swing.*;
 import Modelgame.*;
 
+import java.awt.*;
 
 public class MainWindow extends JFrame {
 
